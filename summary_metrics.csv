@@ -1,0 +1,2 @@
+total_patients,total_predicted_cost,average_cost_per_patient,high_risk_patients,high_risk_percentage,model_accuracy_rf,model_accuracy_xgb
+10000,84225290.0,8422.528,453,4.53,0.9086527779860335,0.913047228651763

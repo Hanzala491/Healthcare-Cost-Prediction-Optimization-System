@@ -1,0 +1,13 @@
+feature,importance
+total_chronic_conditions,0.34963623
+heart_disease,0.21489175
+insurance_type,0.12819526
+high_risk,0.12388785
+prev_hospitalizations,0.10097114
+diabetes,0.049620718
+age_bmi_interaction,0.014025647
+hypertension,0.012211033
+bmi,0.0020441504
+age,0.001921813
+region,0.0013251986
+gender,0.0012692261

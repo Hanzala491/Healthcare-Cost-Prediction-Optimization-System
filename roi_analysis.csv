@@ -1,0 +1,4 @@
+intervention_name,target_patients,intervention_cost,potential_savings,net_benefit,roi_percentage
+Preventive Care Program,8485.0,4242500.0,11709912.0,7467412.0,176.01441955566406
+Chronic Disease Management,453.0,543600.0,1971205.875,1427605.875,262.62066650390625
+Wellness Program,9547.0,1909400.0,6107237.0,4197837.0,219.85110473632812
